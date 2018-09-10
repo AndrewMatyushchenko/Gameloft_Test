@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEST>
+	<ITEM icon="73" name="Knight">
+		<COST icon="91" value="11" have="12" name="Titanium"/>
+		<COST icon="88" value="11" have="12" name="Copper"/>
+	</ITEM>
+	<ITEM icon="76" name="Digger">
+		<COST icon="90" value="10" have="22" name="Zinc"/>
+		<COST icon="91" value="11" have="23" name="Titanium"/>
+		<COST icon="92" value="12" have="24" name="Crystal"/>
+		<COST icon="86" value="22" have="10" name="Silver"/>
+		<COST icon="93" value="13" have="25" name="Tin"/>
+		<COST icon="82" value="14" have="26" name="Coal"/>
+	</ITEM>
+	<ITEM icon="75" name="PickAxe">
+		<COST icon="89" value="22" have="10" name="Mercury"/>
+		<COST icon="86" value="22" have="10" name="Silver"/>
+		<COST icon="90" value="11" have="12" name="Zinc"/>
+	</ITEM>
+	<ITEM icon="77" name="Zombie">
+		<COST icon="86" value="22" have="10" name="Silver"/>
+		<COST icon="89" value="22" have="10" name="Mercury"/>
+		<COST icon="90" value="11" have="12" name="Zinc"/>
+		<COST icon="91" value="11" have="12" name="Titanium"/>
+	</ITEM>
+</TEST>
